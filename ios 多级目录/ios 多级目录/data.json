@@ -1,0 +1,53 @@
+{
+    "message": "信息获取成功",
+    "result": 1,
+    "data": [
+             [
+              {
+              "branch_id": 1,
+              "branch_name": "嘉定区社工委",
+              "data": [
+                       [
+                        {
+                        "branch_id": 2,
+                        "branch_name": "嘉定区商业党委",
+                        "data": [
+                                 [
+                                  {
+                                  "branch_id": 3,
+                                  "branch_name": "嘉定新城党总支",
+                                  "data": [
+                                           [
+                                            {
+                                            "branch_id": 4,
+                                            "branch_name": "沁美文化党支部",
+                                            "data": [
+                                            ]
+                                            },
+                                            {
+                                            "branch_id": 5,
+                                            "branch_name": "云晶党支部",
+                                            "data": []
+                                            },
+                                            {
+                                            "branch_id": 6,
+                                            "branch_name": "沃尔沃党支部",
+                                            "data": []
+                                            },
+                                            {
+                                            "branch_id": 7,
+                                            "branch_name": "华滋蚂蚁党支部",
+                                            "data": []
+                                            }
+                                            ]
+                                           ]
+                                  }
+                                  ]
+                                 ]
+                        }
+                        ]
+                       ]
+              }
+              ]
+             ]
+}

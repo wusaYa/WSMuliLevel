@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+
+target 'ios 多级目录' do
+
+pod 'MJExtension', '~> 3.0.13'
+
+end
